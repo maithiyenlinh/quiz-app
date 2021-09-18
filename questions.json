@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "How would do you write 'a very nice friend'?",
+        "answer": ["緑の木", "高いビル", "お年寄りの男の人", "とても優しい友達"],
+        "correctAnswer" : "とても優しい友達"
+    },
+    {
+        "id": 2,
+        "question": "Which one of the following means 'squares'.",
+        "answer": ["丸い", "四角", "三角", "甘い", "深い"],
+        "correctAnswer" : "四角"
+    },
+    {
+        "id": 3,
+        "question": "Which one of the following means 'red'.",
+        "answer": ["白い", "青い", "黄色い", "赤い", "黒い"],
+        "correctAnswer" : "赤い"
+    },
+    {
+        "id": 4,
+        "question": "Which one of the following means 'today'.",
+        "answer": ["すぐに","昨日","明日","今日","すでに"],
+        "correctAnswer" : "今日"
+    },
+    {
+        "id": 5,
+        "question": "How would you write 'quickly'?",
+        "answer": ["ゆっくり","速く","ほとんど","一緒に","本当に"],
+        "correctAnswer" : "速く"
+    }
+]
